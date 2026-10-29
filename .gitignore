@@ -1,0 +1,13 @@
+# gerados pelo pipeline: recriados com três comandos
+olist.duckdb
+relatorio.html
+
+# ambiente e caches de ferramentas
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.coverage
+
+# configurações locais do Claude Code
+.claude/
